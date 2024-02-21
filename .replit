@@ -1,0 +1,7 @@
+hidden=[".config"]
+modules = ["web:v2-20230623-0b7a606"]
+run = "node index.js"
+
+[deployment]
+publicDir = "/"
+deploymentTarget = "static"
