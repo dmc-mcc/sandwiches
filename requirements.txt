@@ -1,1 +1,2 @@
-# Your requirements go here
+# Your requirements go heregoogle-auth==2.28.1
+gspread==6.0.2
